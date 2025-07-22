@@ -13,7 +13,7 @@ This is the backend for a local ChatGPT-style chat application built using:
 
 - Backend:Node.js, Express
 - Database: PostgreSQL
-- LLM:Ollama (`gemma:1b`)
+- LLM:Ollama (`tinyllama`)
 - Frontend:Next.js (see `/frontend` folder)
 - Version Control: Git + GitHub
 
